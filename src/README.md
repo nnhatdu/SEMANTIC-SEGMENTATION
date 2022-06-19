@@ -1,0 +1,1 @@
+open SemanticSegmentaition-DeepLabv3.ipynb on Google Colab and run step by step to train the datasets.
